@@ -18,6 +18,10 @@ _SQL:-_	This folder provides all SQL steps to upload the dataset path.
 _POWER BI DASHBOARD:-_	This contains the Visualisation Dashboard on IPL data which can be downloaded.
 
 
+https://github.com/kumar1284/IPL-Teams-Analysis-and-Prediction-using-PowerBI--2008-2022-/assets/61418062/faf65891-c03c-4033-8803-cef4d6de4e16
+
+
+
 
 **The objective of this case study is to follow the primary steps of a data analysis project.**
   - Data Understanding.
