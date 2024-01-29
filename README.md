@@ -8,11 +8,11 @@ The Indian Premier League (IPL) has emerged as one of the most thrilling and pop
 ![image](https://github.com/kumar1284/IPL-Teams-Analysis-and-Prediction-using-PowerBI--2008-2022-/assets/61418062/5f9dbbf7-cc55-47eb-8fe7-6df119108967)
 **User's Manual**
 
-_Files/Folder	Description:- _Dataset	This folder provides you with two datasets i.e. ipl_ball_by_ball_2008_2022.csv and ipl_matches_2008_2022.csv
+_Files/Folder	Description:-_ Dataset	This folder provides you with two datasets i.e. ipl_ball_by_ball_2008_2022.csv and ipl_matches_2008_2022.csv
 
-_IPL team logo and Images:-_	The folder provides all the images used to design the dashboard
-_SQL:-_	This folder provides all SQL steps to upload the dataset path
-_POWER BI DASHBOARD:-_	This contains the Visualisation Dashboard on IPL data which can be downloaded
+_IPL team logo and Images:-_	The folder provides all the images used to design the dashboard.
+_SQL:-_	This folder provides all SQL steps to upload the dataset path.
+_POWER BI DASHBOARD:-_	This contains the Visualisation Dashboard on IPL data which can be downloaded.
 
 
 
