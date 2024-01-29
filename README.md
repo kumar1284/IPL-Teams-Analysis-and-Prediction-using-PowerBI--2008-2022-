@@ -13,6 +13,7 @@ The Indian Premier League (IPL) has emerged as one of the most thrilling and pop
   - Choose recommended graphs for visualization.
 
 **REQUIREMENTS**
+
 _**Develop an IPL Dashboard for seasons 2008 to 2022 to have detailed insights on below problem statements**_
 1. Find the Title Winer, Orange Cap Winner, Purple Cap Winner, Tournament 6’s and 4’s for the respective seasons on IPL 
 
