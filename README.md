@@ -5,7 +5,8 @@ Power-BI-Project-End-to-End-IPL-Analysis
 
 The Indian Premier League (IPL) has emerged as one of the most thrilling and popular cricket leagues globally, attracting top-notch talent and millions of fans. Beyond the exhilarating matches, the league offers a treasure trove of data that can be leveraged for insightful analysis. This repository delves into IPL team analysis, focusing on batting performance, and utilizes the powerful tools of SQL and Power BI for data exploration and visualization.
 
- User's Manual
+ ![image](https://github.com/kumar1284/IPL-Teams-Analysis-and-Prediction-using-PowerBI--2008-2022-/assets/61418062/9dba75ee-7596-4d44-8b7b-fc7215f5b21e)
+
 Files/Folder	Description
 Dataset	This folder provides you with two datasets i.e ipl_ball_by_ball_2008_2022.csv and ipl_matches_2008_2022.csv
 IPL team logo and Images	This folder provides all the images used to design the dashboard
