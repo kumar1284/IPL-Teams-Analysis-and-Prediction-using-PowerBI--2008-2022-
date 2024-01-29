@@ -28,8 +28,6 @@ _POWER BI DASHBOARD:-_	This contains the Visualisation Dashboard on IPL data whi
  - Choose recommended graphs for visualization.
  - Creating a dashboard.
 
-![image](https://github.com/kumar1284/IPL-Teams-Analysis-and-Prediction-using-PowerBI--2008-2022-/assets/61418062/1a6fac04-f2fe-4b3c-947a-a02bc2405523)
-
 
 **REQUIREMENTS**
 
