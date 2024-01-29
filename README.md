@@ -20,12 +20,16 @@ _POWER BI DASHBOARD:-_	This contains the Visualisation Dashboard on IPL data whi
 
 
 **The objective of this case study is to follow the primary steps of a data analysis project.**
-  - Data Understanding.
-  - Import Data into MS SQL Server.
-  - Connecting Power BI to Database.
-  - Data Import, Data Cleaning, Data Preprocessing, Data Modelling.
-  - Create a Relationship.
-  - Choose recommended graphs for visualization.
+ - Data Understanding.
+ - Import Data in MS SQL Server.
+ - Connecting Power BI to Database.
+ - Data Cleaning, Data Preprocessing, Data Modelling.
+ - Time Intelligence Function.
+ - Choose recommended graphs for visualization.
+ - Creating a dashboard.
+
+![image](https://github.com/kumar1284/IPL-Teams-Analysis-and-Prediction-using-PowerBI--2008-2022-/assets/61418062/1a6fac04-f2fe-4b3c-947a-a02bc2405523)
+
 
 **REQUIREMENTS**
 
