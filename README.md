@@ -9,8 +9,8 @@ The Indian Premier League (IPL) has emerged as one of the most thrilling and pop
   - Import Data into MS SQL Server.
   - Connecting Power BI to Database.
   - Data Import, Data Cleaning, Data Preprocessing, Data Modelling.
- 	- Create Relationship.
- 	- Choose recommended graphs for visualization.
+  - Create Relationship.
+  - Choose recommended graphs for visualization.
 
 **REQUIREMENTS**
 _**Develop an IPL Dashboard for seasons 2008 to 2022 to have detailed insights on below problem statements**_
