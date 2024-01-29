@@ -45,5 +45,7 @@ _**Develop an IPL Dashboard for seasons 2008 to 2022 to have detailed insights o
 6. Matches won based on a result type
 
 
-**Dashboard Screenshot**
+
+                                        DASHBOARD SCREENSHOT
+   
 ![image](https://github.com/kumar1284/IPL-Teams-Analysis-and-Prediction-using-PowerBI--2008-2022-/assets/61418062/1e1c4255-b43a-4574-92b4-9f85189aac22)
