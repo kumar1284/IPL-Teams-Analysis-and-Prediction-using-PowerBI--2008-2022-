@@ -5,7 +5,8 @@ Power-BI-Project-End-to-End-IPL-Analysis
 
 The Indian Premier League (IPL) has emerged as one of the most thrilling and popular cricket leagues globally, attracting top-notch talent and millions of fans. Beyond the exhilarating matches, the league offers a treasure trove of data to be leveraged for insightful analysis. This repository delves into IPL team analysis, focusing on batting performance, and utilizes the powerful SQL and Power BI tools for data exploration and visualization.
  
-![image](https://github.com/kumar1284/IPL-Teams-Analysis-and-Prediction-using-PowerBI--2008-2022-/assets/61418062/5f9dbbf7-cc55-47eb-8fe7-6df119108967)
+![image](https://github.com/kumar1284/IPL-Teams-Analysis-and-Prediction-using-PowerBI--2008-2022-/assets/61418062/de0584f9-6b49-40a8-a200-f83dac931252)
+
 
 **User's Manual**
 
