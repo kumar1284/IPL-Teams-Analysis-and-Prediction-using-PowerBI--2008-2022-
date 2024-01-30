@@ -45,6 +45,9 @@ _**Develop an IPL Dashboard for seasons 2008 to 2022 to have detailed insights o
 6. Matches won based on a result type
 
 
+   **For LIVE View -** https://www.novypro.com/project/ipl-teams-analysis--prediction-using-power-bi-2008-2022-📊✨
+
+
 
                                         DASHBOARD SCREENSHOT
    
